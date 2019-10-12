@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="BMI">Body Mass Index (BMI)</string>
+    <string name="Weight">Weight</string>
+    <string name="Height">Height</string>
+    <string name="CalculateBMI">Calculate BMI</string>
+    <string name="BMIResultMessage"> Your BMI:</string>
+    <string name="StatusUnderWeight"> Your are UnderWeight </string>
+    <string name="StatusOverWeight"> Your are Over Weight </string>
+    <string name="StatusNormalWeight"> Your are NormalWeight </string>
+    <string name="StatusObesity"> Your are Obese </string>
+    <string name="errorMessage"> Invalid Inputs</string>
+    <string name="bmiCalculated"> BMI Calculated</string>
+    <string name="weight_unit">Lbs</string>
+    <string name="height_feetUnit">feets</string>
+    <string name="height_inchesUnit">inches</string>
+
+</resources>
