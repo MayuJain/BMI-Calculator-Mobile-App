@@ -4,9 +4,7 @@ package com.example.bmicalculator;
 /*
 *MainActivity.java
 * Homework 1
-* Group 19
-* Mayuri Jain, Narendra Pahuja
-*
+* Mayuri Jain
 * */
 
 import androidx.appcompat.app.AppCompatActivity;
