@@ -1,11 +1,5 @@
 package com.example.bmicalculator;
 
-
-/*
-* Homework 1
-* Mayuri Jain
-* */
-
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
