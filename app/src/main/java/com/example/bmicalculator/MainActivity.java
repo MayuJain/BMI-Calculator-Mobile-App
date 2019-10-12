@@ -2,7 +2,6 @@ package com.example.bmicalculator;
 
 
 /*
-*MainActivity.java
 * Homework 1
 * Mayuri Jain
 * */
